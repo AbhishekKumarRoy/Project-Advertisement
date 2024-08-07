@@ -19,7 +19,7 @@ To predict an ad's future performance (revenue) between March 1st and March 15th
 - revenue: revenue generated from the ad
 - Our goal is to predict the revenue from Test data with a low RMSE score.
 
-## Contents
-Preprocessed data, engineered features, and applied a regression tree model to predict revenue, achieving a testing data RMSE score of 106.65 in the challenge.
+## Summary
+Performed EDA, Preprocessed data, engineered features, and applied a regression tree model to predict revenue, achieving a testing data RMSE score of 106.65 in the challenge.
 
 ![image](https://github.com/user-attachments/assets/a1e32651-b9d1-44ec-b535-f5435c2c5547)
