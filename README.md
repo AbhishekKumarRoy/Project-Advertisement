@@ -4,6 +4,8 @@ This Notebook was part of a challenge, the capstone project of Summer Analytics,
 
 DeltaX provided the dataset is the pioneering cross-channel digital advertising platform. The cloud-based platform leverages big data, user behaviour, and machine learning algorithms to improve performance across the business funnel of advertisers.
 
+The goal was to predict the revenue from Test data with a low RMSE score.
+
 The published notebook can be found [here](https://aiplanet.com/notebooks/1931/abhishek_roy/capstone-project-advertisement-10206).
 
 ## Problem Statement
@@ -19,7 +21,6 @@ To predict an ad's future performance (revenue) between March 1st and March 15th
 - cost - Amount spent to show ad
 - conversions - Number of transactions received
 - revenue: revenue generated from the ad
-- Our goal is to predict the revenue from Test data with a low RMSE score.
 
 ## Summary
 Programming Language - Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn)
