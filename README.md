@@ -23,8 +23,12 @@ To predict an ad's future performance (revenue) between March 1st and March 15th
 - revenue: revenue generated from the ad
 
 ## Summary
-Programming Language - Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn)
+I utilized Python as the primary programming language, employing libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Sklearn for comprehensive data analysis and machine learning.
 
-Performed EDA, Preprocessed data, engineered features, and applied a regression tree model to predict revenue, achieving a testing data RMSE score of 106.65 in the challenge.
+The notebook began with an in-depth Exploratory Data Analysis (EDA) to assess the dataset, identify key patterns, visualize distributions, and uncover insights that would guide the modelling process. Data preprocessing steps were meticulously executed, normalizing data, and encoding categorical variables to ensure the dataset was in optimal shape for analysis.
+
+I employed feature engineering techniques to develop additional variables that could enhance the predictive power of the model. Following this, a regression tree model was implemented to predict revenue. The modelling process included careful tuning and hyperparameter optimization, leading to the final model achieving a Root Mean Squared Error (RMSE) score of 106.65 on the testing dataset. This result demonstrates the model's effectiveness and accuracy in making revenue predictions.
+
+The entire workflow is documented in the Google Colab, detailing each step taken and the insights gained throughout the competition.
 
 ![image](https://github.com/user-attachments/assets/a1e32651-b9d1-44ec-b535-f5435c2c5547)
